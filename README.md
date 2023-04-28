@@ -19,6 +19,8 @@ To build a neural network to recognise five different gestures to control a smar
 
 The training data consists of several hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames. These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.
 
+![Training Dataset Sample](./Dataset%20Sample.png)
+
 ## Libraries Used
 
   - Tensorflow 2.11.0
