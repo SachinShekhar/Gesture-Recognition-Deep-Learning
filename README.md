@@ -2,11 +2,11 @@
 
 To build a neural network to recognise five different gestures to control a smart TV (with webcam) without using a remote. The gestures are as follows:
 
-1. Thumbs up: Increase the volume
-2. Thumbs down: Decrease the volume
-3. Left swipe: 'Jump' backwards 10 seconds
-4. Right swipe: 'Jump' forward 10 seconds
-5. Stop: Pause the movie
+  - Thumbs up: Increase the volume
+  - Thumbs down: Decrease the volume
+  - Left swipe: 'Jump' backwards 10 seconds
+  - Right swipe: 'Jump' forward 10 seconds
+  - Stop: Pause the movie
 
 ## Table of Contents
 * [Dataset Info](#dataset-information)
